@@ -41,10 +41,10 @@ class PersegiPanjang
 
     int main ()
     {
-        PersegiPanjang objekPP; //nembuat objek
+        PersegiPanjang objekPP; //membuat objek
         Lingkaran ol;
         cout << "Masukkan panjang : "; 
-        cin >> objekPP.panjang:
+        cin >> objekPP.panjang;
         cout << "Masukan Lebar : "; 
         cin >> objekPP.lebar;
         cout << "Luas Persegi Panjang : " <<
